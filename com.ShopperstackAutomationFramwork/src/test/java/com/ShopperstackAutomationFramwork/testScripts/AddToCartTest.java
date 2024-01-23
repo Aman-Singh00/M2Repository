@@ -14,7 +14,7 @@ import com.ShopperstackAutomationFramwork.pomPages.HomePage;
 import com.ShopperstackAutomationFramwork.pomPages.LoginPage;
 import com.ShopperstackAutomationFramwork.pomPages.WelcomePage;
 
-public class AddToCart extends BaseTest {
+public class AddToCartTest extends BaseTest {
 
 	@Test
 	public void addToCartIntoShopperstack() throws EncryptedDocumentException, IOException {

@@ -13,7 +13,7 @@ import com.ShopperstackAutomationFramwork.pomPages.LoginPage;
 import com.ShopperstackAutomationFramwork.pomPages.WelcomePage;
 
 @Listeners(CustomeListener.class)
-public class ValidLogin extends BaseTest {
+public class ValidLoginTest extends BaseTest {
 
 	//@Parameters({"username","password"})
 	@Test

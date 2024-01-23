@@ -10,7 +10,7 @@ import com.ShopperstackAutomationFramwork.genericlib.FLib;
 import com.ShopperstackAutomationFramwork.pomPages.LoginPage;
 import com.ShopperstackAutomationFramwork.pomPages.WelcomePage;
 
-public class InvalidLogin extends BaseTest {
+public class InvalidLoginTest extends BaseTest {
 
 	@Test
 	public void InvalidLoginInShopperstack() throws EncryptedDocumentException, IOException, InterruptedException {
